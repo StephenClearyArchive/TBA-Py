@@ -1,0 +1,15 @@
+README
+MANIFEST
+setup.py
+TBA\COPYRIGHT
+TBA\README
+TBA\__init__.py
+TBA\algorithms\__init__.py
+TBA\algorithms\xbase.py
+TBA\algorithms\xbasic.py
+TBA\algorithms\xcompatibility.py
+TBA\algorithms\xsorted.py
+TBA\algorithms\test\test_xbasic.py
+TBA\algorithms\test\test_xsorted.py
+TBA\algorithms\examples\xsoundex.py
+TBA\algorithms\examples\test\test_xsoundex.py

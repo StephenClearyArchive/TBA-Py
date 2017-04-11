@@ -1,0 +1,17 @@
+Copyright (C) 2001, Stephen Cleary
+All rights reserved.
+
+TBA 1.0
+-------
+
+TBA is a collection of pure python modules.  Currently, it only has a few general-purpose iterator adapters.
+
+License:
+  BSD-derived, see the file 'COPYRIGHT' for full information.
+
+Home page:
+  http://sourceforge.net/projects/tba-py/
+
+Contact info:
+  The author is Stephen Cleary.  He can be reached at: shammah@voyager.net
+

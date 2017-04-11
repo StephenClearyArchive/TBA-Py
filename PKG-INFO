@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: TBA
+Version: 1.0
+Summary: General-Purpose Iterator Adapters
+Home-page: http://sourceforge.net/projects/tba-py/
+Author: Stephen Cleary
+Author-email: shammah@voyager.net
+License: BSD-derived; see 'COPYRIGHT'
+Description: Useful pure Python modules
+Platform: any

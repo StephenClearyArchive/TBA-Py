@@ -1,0 +1,2 @@
+To install TBA, run:
+  python setup.py install
